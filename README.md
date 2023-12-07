@@ -32,3 +32,27 @@ Step 1: Process the Data:
 
 *Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity.h5.
 
+Step 3: Optimize the Model
+
+*Using your knowledge of TensorFlow, optimize your model to achieve a target predictive accuracy higher than 75%.
+
+Use any or all of the following methods to optimize your model:
+
+Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
+
+Dropping more or fewer columns.
+
+Creating more bins for rare occurrences in columns.
+
+Increasing or decreasing the number of values for each bin.
+
+Add more neurons to a hidden layer.
+
+Add more hidden layers.
+
+Use different activation functions for the hidden layers.
+
+Add or reduce the number of epochs to the training regimen.
+
+
+
